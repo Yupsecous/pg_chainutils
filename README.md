@@ -4,9 +4,6 @@ pg_chainutils adds some simple utilities that help parse/transform/interact with
 
 Contributions and suggestions welcome!
 
-This extension is created using [pgrx](https://github.com/tcdi/pgrx)
-Check out [pg_chainsync](https://github.com/usagi-coffee/pg_chainsync) extension to fetch blocks and events inside your database.
-
 ## Usage
 
 ```sql
